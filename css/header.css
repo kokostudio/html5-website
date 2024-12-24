@@ -1,0 +1,16 @@
+.header {
+    background-color: #4CAF50; /* Green background */
+    color: white; /* White text */
+    padding: 20px; /* Padding around the header */
+    text-align: center; /* Centered text */
+    font-size: 2em; /* Larger font size */
+}
+
+.header h1 {
+    margin: 0; /* Remove default margin */
+}
+
+.header p {
+    font-size: 1.2em; /* Slightly larger font for the paragraph */
+    margin: 10px 0 0; /* Margin for spacing */
+}
